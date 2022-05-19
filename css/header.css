@@ -26,7 +26,7 @@
         font-size: 1.2rem;
         align-items: center;
         justify-content: flex-end;
-        gap: 1115px;
+       
 
     }
 
@@ -70,7 +70,7 @@
         gap: 16px;
         justify-content: flex-start;
         gap: 100px;
-        width: 1398px;
+        width: 1200px;
         padding: 0px 150px;
 
     }

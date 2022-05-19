@@ -19,6 +19,6 @@ html{
 :root{
     --accent-color:#55775E
 }
-body , html{
-    
+body{
+    overflow-x: hidden;
 }
