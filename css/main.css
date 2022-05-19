@@ -2,7 +2,9 @@ section{
     height: 100vh;
     
 }
-
+#beneficios{
+    background-color: aquamarinea;
+}
 
 .home{
 
@@ -44,12 +46,13 @@ z-index: 1;
     align-items: flex-start;
     padding-left: 12%;
 }
-.sobrenos{
+.sobrenos-title{
     color: white;
     display: flex;
     font-size: 180%;
     transform: translate(200%);
-    text-shadow: black 1.3em 0.2em 0.2em
+    padding-top: 4%;
+    text-shadow: black 1px 2px 2px;
     font-family: 'Lustria', serif;
 }
 .caixa1{
@@ -153,7 +156,7 @@ right: 100px;
 
 }
 
-.sn-container .imagens .sobrenos-img.img-destaque{
+.sn-container .imagens .sn-img.img-destaque{
 
 left: 608px;
 top: 201px;
@@ -331,7 +334,12 @@ z-index: -1;
 
 
 
-
+#beneficios{
+    background-color: crimson;
+}
+#vagas{
+    background-color: darkgreen;
+}
 .beneficios-container{
 background-color: #BBC9BF;
     
@@ -346,7 +354,7 @@ background-color: #BBC9BF;
     
 }
 .lista{
-    background-color: tomato;
+    
     display: flex;
     
 }
