@@ -444,3 +444,19 @@ footer{
 background-color: blue;
 height: 80px;
 }
+
+@media (max-width:768px) {
+    body{
+        overflow-y: hidden;
+    }
+    
+    .home{
+        display: block;
+    }
+    .menu-inicial{
+        display: none;
+    }
+    .menu-fixo{
+        max-width: 100%;
+    }
+    
